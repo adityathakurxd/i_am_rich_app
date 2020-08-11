@@ -21,9 +21,10 @@ The application was removed from the App Store without explanation by [Apple Inc
 ## Application Screenshots
 
 
-![Home Page of App](https://photos.app.goo.gl/bmgN2xJKS4ZdnULr5)
+![Android Emulator - Pixel_3a_API_28_5554 8_11_2020 6_31_43 PM](https://user-images.githubusercontent.com/53579386/89915360-e2748d80-dc13-11ea-9f9c-45feb2678113.png)
 
-![App Icon](https://photos.app.goo.gl/94gJeQHe4D9ZdmEW9)
+![Android Emulator - Pixel_3a_API_28_5554 8_11_2020 6_31_57 PM](https://user-images.githubusercontent.com/53579386/89915377-e86a6e80-dc13-11ea-86a7-835f981a7f98.png)
+
 
 
 ## Resources 
